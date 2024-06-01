@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Delower</h1>
+<h1 align="center">Hi, I'm Delower</h1>
 <h3 align="center">A passionate Flutter developer from Bangladesh</h3> 
 <img alt="Coder GIF" height=250 width=350 src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif" />
 
